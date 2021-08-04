@@ -17,3 +17,14 @@
     </v-col>
   </v-row>
 </template>
+
+<script>
+import { defineComponent } from '@vue/composition-api'
+
+export default defineComponent({
+  layout: 'blog',
+  setup() {
+    
+  },
+})
+</script>

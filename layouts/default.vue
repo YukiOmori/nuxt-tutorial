@@ -91,7 +91,7 @@
 <script>
 export default {
   data () {
-    return {
+return {
       clipped: false,
       drawer: false,
       fixed: false,
